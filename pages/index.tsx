@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h2> welcome to qintot.com </h2> 
+        <h2> welcome to Qintot Group </h2> 
       </main>
     </>
   )
